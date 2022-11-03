@@ -1,0 +1,37 @@
+body {
+  background-color: #6d6096;
+}
+span {
+  background-color: #fff;
+}
+p {
+  color: #fff;
+  font-size: 25px;
+}
+button {
+  cursor: pointer;
+  color: #6d6096;
+  width: 130px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 30px;
+  border: none;
+  display: none;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.request {
+  display: flex;
+  justify-content: left;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.color-name {
+  margin-bottom: 50px;
+}
